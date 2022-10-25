@@ -32,5 +32,5 @@
 </div>
   
   <p align="center">
-  there is not limit
+  pensar...
   </p>
