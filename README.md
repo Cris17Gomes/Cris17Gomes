@@ -12,6 +12,7 @@
 </div>
 <br>
   <div align="center">
+  	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,7 +23,7 @@
   
 <div align="center">
 
-
+	
 
  <a href="Cristiano Gomes#1083" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gomes.cristiano17@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
