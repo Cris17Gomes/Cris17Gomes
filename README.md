@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <a href="https://github.com//Cris17Gomes">
+  <a href="https://github.com/Cris17Gomes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=/Cris17Gomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=/Cris17Gomes&layout=compact&langs_count=7&theme=dark"/>
 
