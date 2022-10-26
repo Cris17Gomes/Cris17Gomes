@@ -32,5 +32,5 @@
 </div>
   
   <p align="center">
-  pensar...
+  Pensar...
   </p>
